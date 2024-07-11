@@ -1,0 +1,9 @@
+{
+  "sites": [
+    {
+      "slug": "flat-xylophone-tiny",
+      "distDir": "public",
+      "buildCommand": "hugo"
+    }
+  ]
+}

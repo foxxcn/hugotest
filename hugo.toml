@@ -1,0 +1,8 @@
+baseURL = 'https://cosmoglia.com/'
+languageCode = 'zh-cn'
+title = 'cosmoglia'
+theme = 'PaperMod'
+[module]
+  [[module.mounts]]
+    source = 'content'
+    target = 'content'
